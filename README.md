@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pratham0105
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning B.VOC in Telematics from DEI
-- 💞️ I’m looking to collaborate on my projects 
+- 🌱 I’m currently learning B.VOC in Telematics from DEI 
 - 📫 you can call me anytime at 8126941641
 
 <!---
