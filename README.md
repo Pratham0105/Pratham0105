@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratham0105
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning B.VOC in Telematics from DEI 
-- 📫 you can call me anytime at 8126941641
+- 👀 I’m a React Developer
+- 🌱 I’m persuing B.VOC in Telematics from DEI 
+- 📫 Open To Hire Mail ID :- pratham.parashar143858@gmail.com
 
 <!---
 Pratham0105/Pratham0105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
